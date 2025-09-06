@@ -18,6 +18,11 @@ app.get('/api/character/:id', async (req, res) => {
     res.json(c);
 });
 
+app.get('/api/character', async (req, res) => {
+    const c = JSON.parse(await fs.readFile('src/characters.json', 'utf-8'));
+    res.json(c);
+});
+
 app.listen(port, () => {
     console.log(`Listening at http://localhost:${port}`);
 });
