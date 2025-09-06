@@ -1,0 +1,29 @@
+{
+    "count": 3,
+    "result": [
+        {
+            "id": 50,
+            "name": "Blim Blam",
+            "status": "Alive",
+            "species": "Alien",
+            "type": "Korblock",
+            "gender": "Male"
+        },
+        {
+            "id": 150,
+            "name": "Cornvelious Daniel",
+            "status": "Dead",
+            "species": "Alien",
+            "type": "Gromflomite",
+            "gender": "Male"
+        },
+        {
+            "id": 69,
+            "name": "Commander Rick",
+            "status": "Dead",
+            "species": "Human",
+            "type": "",
+            "gender": "Male"
+        }
+    ]
+}
