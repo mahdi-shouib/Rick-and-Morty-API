@@ -1,0 +1,26 @@
+{
+  "name": "rick-and-morty-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdi-shouib/Rick-and-Morty-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mahdi-shouib/Rick-and-Morty-API/issues"
+  },
+  "homepage": "https://github.com/mahdi-shouib/Rick-and-Morty-API#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
